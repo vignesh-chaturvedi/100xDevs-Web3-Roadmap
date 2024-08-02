@@ -34,3 +34,7 @@ Please ensure that your contributions adhere to the overall structure and format
 If you find this project helpful, please give it a star! ⭐ Enjoy your learning journey!
 
 You can also support my work by [buying me a coffee](https://buymeacoffee.com/lazyvim).
+
+## Example SS:
+![image](https://github.com/user-attachments/assets/5eb57f12-cb0f-4d98-b153-75c934e0023e)
+
