@@ -25,7 +25,9 @@ We welcome contributions to improve and expand this roadmap. Here’s how you ca
 2. **Open the Master File**: Navigate to the `Master_File.excalidraw` file and open it in the [Excalidraw](https://excalidraw.com/) website.
 3. **Update/Make Changes**: Make your updates and changes to the Excalidraw sheet as needed.
 4. **Push and Create a Pull Request**: Push your changes to your forked repository and then raise a pull request to merge your changes into the main repository.
-   **Please include a screenshot of the changes you have made in your pull request description.**: Please ensure that your contributions adhere to the overall structure and format of the roadmap.
+   **Please include a screenshot of the changes you have made in your pull request description.**
+
+Please ensure that your contributions adhere to the overall structure and format of the roadmap.
 
 ## Support
 
